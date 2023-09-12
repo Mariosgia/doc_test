@@ -20,4 +20,6 @@ Contents
 
    usage
    api
-   testing
+   test2
+   test3
+   
