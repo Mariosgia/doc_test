@@ -18,10 +18,6 @@ Contents
 
 .. toctree::
 
-   Introduction
-   Theory
-   Installation
-   Usage
-   Appendix
+   api
    
    
