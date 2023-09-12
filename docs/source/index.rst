@@ -15,12 +15,11 @@ how to :ref:`installation` the project.
 
 
 .. toctree::
-   :maxdepth: 1
    :caption: Contents
 
    intro
    theory
-   Appendix
    usage
+   Appendix
    api    
 
