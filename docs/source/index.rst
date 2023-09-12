@@ -20,5 +20,5 @@ Contents
    :maxdepth: 1
    :caption: Reference
 
-   api
+   API
    
