@@ -18,8 +18,10 @@ Contents
 
 .. toctree::
 
-   usage
-   api
-   test2
-   test3
+   Introduction
+   Theory
+   Installation
+   Usage
+   Appendix
+   
    
