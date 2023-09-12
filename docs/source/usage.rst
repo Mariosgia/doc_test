@@ -1,34 +1,13 @@
 Usage
 =====
 
-.. _installation:
 
-Installation
-------------
+General rules
+-------------
 
-To use Lumache, first install it using pip:
+Here we are gonna discuss the basics of how the code is organised and how you can easily make small changes to modify the code for your usage.
 
-.. code-block:: console
+Parameters 
+----------
 
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Here we are going to talk abou mod_global.f90 and input_general and input_interactions and what usually goes inside. Discuss how these files can be modified for someone's usage.
