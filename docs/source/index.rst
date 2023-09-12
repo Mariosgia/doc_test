@@ -20,5 +20,9 @@ Contents
    :maxdepth: 1
    :caption: Reference
 
-   api
-   
+   intro
+   theory
+   Appendix
+   usage
+   api    
+
